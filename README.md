@@ -48,3 +48,4 @@ sudo ip addr flush dev eno1
 sudo ip addr add 192.168.50.20/24 dev eno1
 sudo ip link set eno1 up
 # Waypoint_follwer_node
+"# Waypoint_follwer_node" 
