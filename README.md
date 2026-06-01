@@ -20,3 +20,4 @@ source install/setup.bash
 /bin/python /home/mag/Peach/src/can_gsusb.py
 "# Waypoint-Follwer-Node" 
 "# Waypoint-Follwer-Node" 
+"# Waypoint-Follwer-Node" 
